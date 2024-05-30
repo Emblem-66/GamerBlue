@@ -1,4 +1,4 @@
-FROM quay.io/fedora/fedora-silverblue:latest
+FROM ghcr.io/emblem-66/miniblue:latest
 COPY rootfs/ /
 RUN rpm-ostree install \
       https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm \
