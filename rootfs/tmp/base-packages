@@ -17,3 +17,11 @@ ffmpeg-free
 --install=g4music
 --install=cozy
 --install=virt-manager
+--install=steam
+--install=heroic-games-launcher-bin
+--install=bottles
+--install=prismlauncher
+--install=goverlay
+--install=mangohud
+--install=protonplus
+--install=protontricks
