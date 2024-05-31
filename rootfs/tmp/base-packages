@@ -1,5 +1,6 @@
 mesa-va-drivers
 ffmpeg-free
+--install=firefox
 --install=mesa-va-drivers-freeworld
 --install=mesa-vdpau-drivers-freeworld
 --install=libavcodec-freeworld
@@ -17,3 +18,7 @@ ffmpeg-free
 --install=g4music
 --install=cozy
 --install=virt-manager
+--install=goverlay
+--install=mangohud
+--install=protonplus
+--install=protontricks
